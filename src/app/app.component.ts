@@ -2,7 +2,7 @@ import {Component} from "@angular/core";
 
 @Component({
 	selector: "angular5-onscreen",
-	templateUrl: "./templates/angular5-onscreen.html"
+	template: require("app.component.html")
 })
 
 export class AppComponent {}
