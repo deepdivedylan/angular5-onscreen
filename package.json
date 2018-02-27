@@ -30,6 +30,7 @@
 	},
 	"devDependencies": {
 		"@types/node": "^8.0.47",
+		"ajv": "^6.2.0",
 		"awesome-typescript-loader": "^3.5.0",
 		"bootstrap": "^4.0.0",
 		"css-loader": "^0.28.10",
