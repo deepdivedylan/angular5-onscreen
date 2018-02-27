@@ -55,7 +55,6 @@ module.exports = {
 			$: "jquery",
 			jQuery: "jquery",
 			"window.jQuery": "jquery",
-			fontawesome: "@fortawesome/fontawesome",
 			Popper: ['popper.js', 'default']
 		}),
 
