@@ -1,5 +1,5 @@
 import {RouterModule, Routes} from "@angular/router";
-import {SplashComponent} from "./components/splash.component";
+import {SplashComponent} from "./splash/splash.component";
 import {UserService} from "./shared/services/user.service";
 
 
